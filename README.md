@@ -1,9 +1,3 @@
-Title and Description
-
-Example:
-
-markdown
-Copy
 # Course on Testing with Jest and Mocks
 This repository contains examples and practices for the testing course, using Jest, mocks, and other tools.
 Table of Contents (Optional)
